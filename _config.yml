@@ -1,19 +1,21 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: testing dan implementasi
+description: '<p> mahasiswa UIN SUSKA RIAU</p>
+              <p> prodi sistem informasi 2014</p>
+              <p> fakultas sains dan teknologi</p>'
 url: 'https://dheafrizky.github.io'
 baseurl: '/dheafrizky.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
+  name: 'dhea frizky'
+  email: dheafrizky09@gmail.com
   twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
-
+  facebook_username: dhea frizky
+  github_username:  dheafrizky
+  linkedin_username:  dheafrizky
+  uin suska: http://uin-suska.ac.id/
 defaults:
   -
     scope:
