@@ -1,8 +1,8 @@
 # Site settings
 title:  dhea frizky
-description: '<p>mahasiswa UIN SUSKA RIAU</p>'
-             '<p>prodi sistem informasi</p>'
-             '<p>fakultas sains dan teknologi</p>'
+description: '<p>mahasiswa UIN SUSKA RIAU</p>
+             <p>prodi sistem informasi</p>
+             <p>fakultas sains dan teknologi</p>'
 url: 'https://dheafrizky.github.io'
 baseurl: '/dheafrizky.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
