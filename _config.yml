@@ -1,7 +1,7 @@
 # Site settings
 title:  dhea frizky
-description: '<p>mahasiswa UIN SUSKA RIAU<a href="https://uin-suska.ac.id</a></p>'
-             '<p>prodi sistem informasi<a href="https://sif.uin-suska.ac.id</a></p>'
+description: '<p>mahasiswa UIN SUSKA RIAU</p>'
+             '<p>prodi sistem informasi</p>'
              '<p>fakultas sains dan teknologi</p>'
 url: 'https://dheafrizky.github.io'
 baseurl: '/dheafrizky.github.io/'
@@ -11,8 +11,8 @@ baseurl: '/dheafrizky.github.io/'
 author:
   name: 'dhea frizky'
   email: dheafrizky09@gmail.com
-  twitter_username: 
-  facebook_username: dhea frizky
+  uin suska_username: https://uin-suska.ac.id
+  sif_username: https://sif.uin-suska.ac.id
   github_username:  dheafrizky
   linkedin_username:  dheafrizky09@gmail.com
  
